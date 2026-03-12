@@ -2,7 +2,7 @@ import './style.css';
 
 document.addEventListener('DOMContentLoaded', () => {
     // Mobile Menu Toggle
-    const menuBtn = document.querySelector('nav button.md\\:hidden');
+    const menuBtn = document.querySelector('nav .md\\:hidden button');
     const desktopMenu = document.querySelector('.md\\:flex.items-center.gap-8');
     let isMenuOpen = false;
 

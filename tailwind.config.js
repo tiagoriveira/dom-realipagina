@@ -8,15 +8,15 @@ export default {
   theme: {
     extend: {
       colors: {
-        "primary": "#d1b06b", // Sofisticado Ouro Velho/Champanhe
-        "primary-hover": "#b59656",
-        "background-light": "#fcfbfa", // Off-white quente e refinado
-        "background-dark": "#121212", // Elegante Off-Black em vez de Azul Marinho 
-        "surface-dark": "#1a1a1a", // Tom levemente mais claro que o fundo
-        "surface-border": "#333333", // Bordas sutis
+        "primary": "#d4af35",
+        "primary-hover": "#b89628",
+        "background-light": "#f8f7f6",
+        "background-dark": "#0f172a",
+        "surface-dark": "#1e293b",
+        "surface-border": "#334155",
       },
       fontFamily: {
-        "display": ["Playfair Display", "serif"],
+        "display": ["Cinzel Decorative", "Playfair Display", "serif"],
         "serif": ["Playfair Display", "serif"],
         "body": ["Inter", "sans-serif"],
       },
